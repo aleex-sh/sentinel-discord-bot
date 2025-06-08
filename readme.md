@@ -1,4 +1,4 @@
-# 📦 sentinel-discord-
+# 📦 sentinel-discord-bot
 
 > This is a Discord bot with several moderation features.
 
