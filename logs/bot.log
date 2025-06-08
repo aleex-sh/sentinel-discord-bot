@@ -1,0 +1,25 @@
+[2025-06-08 10:40:59,296] [INFO] logging in using static token
+[2025-06-08 10:41:00,569] [INFO] Shard ID None has connected to Gateway (Session ID: 7a42ce8fe2022a9fab99af07e63af40e).
+[2025-06-08 10:41:02,585] [INFO] tasks#1663 has connected successfully.
+[2025-06-08 10:41:19,621] [WARNING] Banned word detected.
+[2025-06-08 10:42:25,405] [INFO] logging in using static token
+[2025-06-08 10:42:26,592] [INFO] Shard ID None has connected to Gateway (Session ID: ea90fadbaa736401f96e08d7b744ca3d).
+[2025-06-08 10:42:28,618] [INFO] tasks#1663 has connected successfully.
+[2025-06-08 10:47:16,450] [INFO] logging in using static token
+[2025-06-08 10:47:17,702] [INFO] Shard ID None has connected to Gateway (Session ID: f59bd9d59862de3d3e86da2d7b6b79fe).
+[2025-06-08 10:47:19,711] [INFO] tasks#1663 has connected successfully.
+[2025-06-08 10:59:28,839] [INFO] logging in using static token
+[2025-06-08 10:59:30,414] [INFO] Shard ID None has connected to Gateway (Session ID: d820b2088d6875e0e09c615cc15644a0).
+[2025-06-08 10:59:32,419] [INFO] tasks#1663 has connected successfully.
+[2025-06-08 11:00:47,755] [INFO] logging in using static token
+[2025-06-08 11:01:47,394] [INFO] logging in using static token
+[2025-06-08 11:01:48,870] [INFO] Shard ID None has connected to Gateway (Session ID: 0571711349e940f111d78d119075a198).
+[2025-06-08 11:01:50,877] [INFO] tasks#1663 has connected successfully.
+[2025-06-08 11:08:17,097] [INFO] logging in using static token
+[2025-06-08 11:08:25,711] [INFO] Shard ID None has connected to Gateway (Session ID: 3c3bd5d2e2fc43e33c197ea7c88a41ea).
+[2025-06-08 11:08:27,726] [INFO] Sentinel#6254 has connected successfully.
+[2025-06-08 11:08:32,612] [ERROR] Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "clear" is not found
+[2025-06-08 11:08:40,328] [INFO] aleex.sh deleted 1 messages in #general.
+[2025-06-08 11:08:46,282] [INFO] /ping executed by aleex.sh
+[2025-06-08 11:09:20,161] [INFO] tasks#1663 was kicked by aleex.sh for: .
