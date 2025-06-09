@@ -27,5 +27,5 @@ Clone the repository and install dependencies:
 
 ```bash
 git https://github.com/aleex-sh/sentinel-discord-bot
-cd project-name
+cd sentinel-discord-bot
 
